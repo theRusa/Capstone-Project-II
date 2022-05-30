@@ -1,2 +1,2 @@
 # Capstone-Project-II
-Airline Ticket Price Prediction
+Bike Rental Prediction
